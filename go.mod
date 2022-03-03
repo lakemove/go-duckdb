@@ -1,3 +1,3 @@
-module github.com/marcboeker/go-duckdb
+module github.com/lakemove/go-duckdb
 
-go 1.12
+go 1.17
